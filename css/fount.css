@@ -1,0 +1,19 @@
+@font-face {
+  font-family: "Roboto";
+  src: url(../founts/RobotoRegular/RobotoRegular.eot);
+    src: url(../founts/RobotoRegular/RobotoRegular.eot?#iefix)format("embedded-opentype"),
+     url(../founts/RobotoRegular/RobotoRegular.ttf) format("woff"),
+     url(../founts/RobotoRegular/RobotoRegular.ttf) format("truetype");
+  font-style: normal;
+  font-weight: normal;
+}
+
+@font-face {
+  font-family: "AlexanderRegular";
+  src: url(../founts/AlexanderRegular/AlexanderRegular.eot);
+    src: url(../founts/AlexanderRegular/AlexanderRegular.eot?#iefix)format("embedded-opentype"),
+  url(../founts/AlexanderRegular/AlexanderRegular.ttf) format("woff"),
+  url(../founts/AlexanderRegular/AlexanderRegular.ttf) format("truetype");
+  font-style: normal;
+  font-weight: normal;
+}

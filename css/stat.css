@@ -1,0 +1,35 @@
+@import url('https://fonts.googleapis.com/css?family=Open+Sans+Condensed:330');
+body {
+    margin: 0; /*Отступы */
+    background-color: #ebebeb;
+   }
+   .parent {
+    margin: 5% /* верх*/
+    20% /* право*/
+    2% /* низ*/
+    15%; /* лево*/
+    background: white; /* Цвет фона */
+    padding: 10px;
+    color: black;
+    box-shadow: 0.4em 0.4em 5px rgba(122,122,122,0.5);
+    text-align: left;
+    font-family: Open Sans Condensed;
+
+  }
+    table {
+        width: 600px; /* Ширина таблицы */
+        border: 2.5px solid black; /* Рамка вокруг таблицы */
+        margin: auto; /* Выравниваем таблицу по центру окна  */
+       }
+       tr {
+        text-align: center; /* Выравниваем текст по центру ячейки */
+       }
+.parent p{
+  font-size: 24px;
+}
+.a{
+ text-align: center;
+}
+.pager{
+  color: black;
+}

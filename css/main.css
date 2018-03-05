@@ -1,0 +1,267 @@
+body{
+  background-color: #f2f2f2;
+  font-family: "AlexanderRegular" sans-serif;
+  font-weight: 300;
+  font-size: 16px;
+  color: #555;
+  -webkit-font-smoohing: antialised;
+  -webkit-overflow-scrolling: touch;
+  margin-top: 70px;
+
+}
+h1, h2, h4, h5, h6 {
+  font-family: 'Roboto' sans-serif;
+  font-weight: 300;
+  color: #333;
+}
+
+p {
+  line-height: 20px;
+  margin-bottom: 25px;
+}
+
+.centered {
+  text-align: center;
+}
+
+a {
+  color: #8ac8ff;
+}
+
+a:hover, a:focus {
+  color: #8ac8ff;
+  text-decoration: none;
+}
+
+hr {
+  display: block;
+  height: 1px;
+  border: 0;
+  border-top: 1px soild #ddd;
+  margin: 1em 0;
+  padding-bottom: 15px;
+}
+
+.navbar {
+  font-weight: 800;
+  font-size: 14px;
+  padding-top: 15px;
+  padding-bottom:15px;
+}
+
+.navbar-inverse {
+  background: #2d2d2d;
+  border-color: #3d4d5d;
+}
+
+.navbar-inverse .navbar-nav > .active > a{
+  background-color: #8ac8ff;
+}
+
+.navbar-inverse .navbar-brand {
+  color: #999;
+  font-weight: bolder;
+  font-size: 20px;
+  letter-spacing: 1px;
+}
+
+#headerwrap {
+  background: url(../jpg/bg0.jpg) no-repeat center top;
+  margin-top: 10px;
+  padding-top: 20px;
+  text-align: center;
+  background-attachment: relative;
+  background-position: center center;
+  min-height: 500px;
+  width: 100%;
+  background-size: 100%;
+  -webkit-background-size: cover;
+  -o-background-size: cover;
+  -moz-background-size: cover;
+  background-size: cover;
+}
+
+#headerwrap h1 {
+  margin-top:100px;
+  font-size: 70px;
+  letter-spacing: 3px;
+  color: #2d2d2d;
+  font-weight: 300px;
+}
+
+#headerwrap h2{
+color: #2d2d2d;
+font-size: 45px;
+letter-spacing: 2px;
+text-transform:
+}
+
+#Shapka{
+  background: url(../jpg/bg6.jpg) no-repeat center top;
+  margin-top: 10px;
+  padding-top: 20px;
+  text-align: center;
+  background-attachment: relative;
+  background-position: center center;
+  min-height: 500px;
+  width: 100%;
+  background-size: 100%;
+  -webkit-background-size: cover;
+  -o-background-size: cover;
+  -moz-background-size: cover;
+  background-size: cover;
+}
+
+#Shapka h1 {
+  margin-top:100px;
+  font-size: 70px;
+  letter-spacing: 3px;
+  color: white;
+  font-weight: 300px;
+}
+
+#Shapka h2 {
+  color: #CCCCCC;
+  font-size: 45px;
+  letter-spacing: 2px;
+  text-transform:
+}
+.w{
+  padding-top: 35px;
+}
+
+.w h4 {
+  font-size: 30px;
+}
+
+ .titel {
+   -webkit-transition: 0.3s all;
+   -moz-transition: 0.3s all;
+   -o-transition: 0.3s all;
+   -ms-transition: 0.3s all;
+   transition: 0.3s all;
+ }
+
+ .titel:hover {
+   -webkit-transform: rotate(-10deg);
+   -moz-transform: : rotate(-10deg);
+   -o-transform: : rotate(-10deg);
+   -ms-transform: : rotate(-10deg);
+   transform: : rotate(-10deg);
+ }
+
+.wb{
+  padding-top: 40px;
+  margin-bottom;
+}
+
+.wb h4 {
+  font-size: 50px;
+}
+
+#lg{
+  background: #ebebeb;
+  padding-top: 70px;
+  padding-bottom: 70px;
+  text-align: center;
+}
+
+#lg h4 {
+  font-size: 50px;
+}
+
+#red {
+  background: #8ac8ff;
+  padding-top: 70px;
+  padding-bottom: 70px;
+}
+
+#red h4 {
+  color: white;
+  font-size: 45px;
+}
+
+#red p {
+  color: white;
+}
+
+#fa {
+  background: #2d2d2d;
+  padding-top: 35px;
+  padding-bottom: 20px;
+}
+
+#fa i {
+  color: #bdbdbd;
+  font-size: 35px;
+  padding: 20px;
+}
+
+#fa i:hover{
+  color: #940a24;
+}
+
+#ot {
+  background: #CCCCCC;
+  padding-top:50px;
+  text-align: center;
+
+}
+
+#ot h4 {
+  font-size: 50px;
+}
+
+#dg {
+  background: #ebebeb;
+  padding-top: 70px;
+  padding-bottom: 70px;
+ text-align: center;
+}
+
+#dg h4 {
+  font-size: 45px;
+}
+
+#pokupki {
+background: #e0e0e0;
+padding-top: 30px;
+text-align: center;
+}
+
+#pokupki h1 {
+  font-size: 45px;
+}
+
+#pokupki h2 {
+font-size: 35px;
+}
+
+#pr h4 {
+  font-size: 45px;
+}
+
+#pr {
+  background: #e0e0e0;
+background-size: auto;
+ text-align: center;
+}
+#pr h3:hover {
+  color: white;
+}
+
+.title {
+  -webkit-transition: 0.5s all;
+  -moz-transition: 0.5s all;
+  -o-transition: 0.5s all;
+  -ms-transition: 0.5s all;
+  transition: 0.5s all;
+}
+
+.title:hover{
+  -webkit-transform: rotate(-10deg);
+  -moz-transform: : rotate(-10deg);
+  -o-transform: : rotate(-10deg);
+  -ms-transform: : rotate(-10deg);
+  transform: : rotate(-10deg);
+}
